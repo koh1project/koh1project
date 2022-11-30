@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="left">Hi 👋, I'm Koichi</h1>
 
 🌱 A Full Stack Developer in Vancouver
